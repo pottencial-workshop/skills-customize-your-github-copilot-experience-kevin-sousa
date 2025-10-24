@@ -1,12 +1,12 @@
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build the classic word-guessing Hangman game using Python to practice string manipulation, loops, conditionals, and user input handling.
 
-## 📝 Tasks
+## 📝 Tarefas
 
-### 🛠️	Word Selection and Game Setup
+### 🛠️ Word Selection and Game Setup
 
 #### Description
 Create the foundation for your Hangman game by implementing word selection and basic game state tracking.
@@ -20,7 +20,7 @@ Completed program should:
 - Set up a counter for remaining attempts (e.g., 6 attempts)
 
 
-### 🛠️	Game Logic and User Interaction
+### 🛠️ Game Logic and User Interaction
 
 #### Description
 Implement the main game loop that accepts player guesses and updates the game state accordingly.
@@ -36,7 +36,7 @@ Completed program should:
 - Continue the loop until the word is guessed or attempts run out
 
 
-### 🛠️	Win/Lose Conditions and Messages
+### 🛠️ Win/Lose Conditions and Messages
 
 #### Description
 Add game-ending logic with appropriate win or lose messages for the player.
